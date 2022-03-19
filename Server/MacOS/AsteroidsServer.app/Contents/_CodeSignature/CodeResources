@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		gUqWxSIOxW/fyfyylOloFy/bL1U=
+		TxV5St/tqHlrhTu12YnYm1n/B2w=
 		</data>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
 		<data>
@@ -494,7 +494,7 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		cFxibZmV9eMCoTCdhok7hzvVpiU=
+		gwKjxt7OuyCrTVCGP6N8kmIW54U=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -506,7 +506,7 @@
 		</data>
 		<key>Resources/Data/level1</key>
 		<data>
-		zBV6jEG4i9mQ9tg27XI9cRRtamU=
+		w4Hn7D/R+MxieMgDoiAfByIxRjY=
 		</data>
 		<key>Resources/Data/level2</key>
 		<data>
@@ -514,7 +514,7 @@
 		</data>
 		<key>Resources/Data/level3</key>
 		<data>
-		RjdLGbo05iEWMTSexfVnhHDfYf4=
+		uvaNym3njF/J69fC2G81Kdft2Fw=
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
@@ -740,16 +740,16 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2tpdXCeegWe0AOOrt1wT1uRPcNw=
+			bzeARhQ9BWDsKeXSDdO1ZY7uY5o=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"dada5d5c279e8167b400e3abb75c13d6e44f70dc" or cdhash H"496e1b7ea51e5b819ac26459172f7df62c6f0763"</string>
+			<string>cdhash H"6f378046143d0560ec29e5d20dd3b5658eee639a" or cdhash H"b669e1e8b3b99e245196ce0e2b1110a2ae0aa511"</string>
 		</dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J+5L+zK4BT2tgjOu9RHf6Xh0d7GJiQab0jqG3CaQT+I=
+			84b5DU1PGhKHFPjmKne+pyC5JjSq7W++1RUSsF21VzM=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
@@ -1603,7 +1603,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3w/QGf2k++2egCZIf8gYe7SqtVZARmnH8E9T0Z5CLh4=
+			qA9+1Tmwy1O4YQZ1kqd+W+EBzflXC3awd1qn8V3M3n0=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
@@ -1624,7 +1624,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pkuGFYKdVM5hbGYLMt6PzjdvWkhVd60ybuIKvasYO1M=
+			2xeXQIAJ+YCEZO9gylbsqzRfqbr4X32t4N1NBqMI2FM=
 			</data>
 		</dict>
 		<key>Resources/Data/level2</key>
@@ -1638,7 +1638,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sIi9zTo6bIUOpg42bBllpperoSEjlgKsYYs+lMm2XNg=
+			NTpAdHvkRzP9UB++0DKsS+40GEtzGYcXChDWHcImRGA=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets</key>
